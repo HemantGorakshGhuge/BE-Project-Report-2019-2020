@@ -1,4 +1,4 @@
-# BE-Project-Report-2019-2020
+# LaTeX - BE-Project-Report-2019-2020
 
 This final year project is fully made in LaTeX. 
 Can be a good template for final year student.....
